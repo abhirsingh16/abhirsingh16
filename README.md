@@ -8,6 +8,3 @@ I’m a **Data Scientist** with a strong focus on **machine learning**, **deep l
 - 📫 Contact: abhirsingh16@gmail.com | [LinkedIn](https://www.linkedin.com/in/abhirsingh16) | [Kaggle](www.kaggle.com/abhishekrsingh16)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love breaking down complex ML concepts into simple, actionable solutions
-
-![Badge Text](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
-
