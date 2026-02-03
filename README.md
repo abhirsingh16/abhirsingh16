@@ -1,42 +1,35 @@
 ## 👋 Hi, I’m Abhishek Singh (@abhirsingh16)
 
-I’m a **Data Scientist / AI Engineer** with nearly a decade of experience across IT operations, systems engineering, and data-driven problem solving, currently focused on applied **Machine Learning** and **Generative AI**.
+I’m a **Data Scientist / Machine Learning Engineer** with a strong foundation in analytics, machine learning, and large-scale data systems, backed by nearly a decade of experience in IT operations, systems support, and production environments.
 
-My background in large-scale operations and production systems strongly influences how I approach ML — end-to-end, pragmatically, and with attention to real-world constraints. I care less about leaderboard scores and more about **clean workflows, correct evaluation, and explainable decisions**.
-
-### What I work on
-- Classical ML: regression, classification, anomaly detection
-- Tree-based models: **XGBoost, Random Forest**, feature selection, bias–variance trade-offs
-- Model evaluation using **cross-validation**, not just single splits
-- API-first ML systems using **FastAPI / Flask**
-- GenAI & NLP explorations: **RAG, LLM orchestration, LangChain, LangGraph, MCP** (actively learning & building)
-
-This GitHub contains a mix of **practice notebooks**, **end-to-end ML use cases**, and **GenAI experiments** as I continue to deepen my skills.
-
-- 👀 Interests: Applied ML · AI Systems · GenAI · Practical MLOps
-- 🌱 Currently learning: Advanced GenAI patterns, LLM tooling, and scalable deployment
-- 🤝 Open to collaboration on meaningful ML / AI projects
-- 📫 Reach me at: **abhirsingh16@gmail.com**  
-  [LinkedIn](https://www.linkedin.com/in/abhirsingh16) · [Kaggle](https://www.kaggle.com/abhishekrsingh16)
+My transition into Data Science and AI is driven by hands-on work across **classical ML, deep learning, and GenAI**, with a focus on building **practical, explainable, and production-aware ML systems** rather than chasing benchmark scores.
 
 ---
 
-## 🛠️ Tech Stack (Focused)
+## 🔍 What I Work On
 
-### 👨‍💻 Core
-- **Python**, SQL
-- scikit-learn, XGBoost
-- Pandas, NumPy
+### Machine Learning & Analytics
+- Supervised and Unsupervised Learning
+- Regression, Classification, Clustering, Anomaly Detection
+- Feature Engineering, Data Cleaning, and Exploratory Data Analysis (EDA)
+- Model evaluation using cross-validation and bias–variance trade-offs
 
-### 🤖 Deep Learning & NLP
-- PyTorch, TensorFlow
-- LLM-based pipelines (RAG, embeddings, retrieval)
+### Deep Learning
+- Artificial Neural Networks (ANN / MLP)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN, LSTM)
+- Transfer Learning
+- Transformer-based models for NLP tasks
 
-### ⚙️ APIs & Deployment
-- FastAPI, Flask
-- Docker, Git
+### NLP & Generative AI
+- Retrieval-Augmented Generation (RAG)
+- LLM pipelines using **LangChain** and **LangGraph**
+- Hugging Face models and embeddings
+- Model Context Protocol (MCP) *(learning in progress)*
+- LLM-powered analysis of text data (reviews, feedback, documents)
 
 ---
 
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhirsingh16&show_icons=true&theme=default)
+## 🛠️ Tech Stack
+
+### Prog
